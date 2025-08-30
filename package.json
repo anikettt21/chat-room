@@ -1,0 +1,16 @@
+{
+  "name": "anonnomoyous-web",
+  "version": "1.0.0",
+  "description": "A local chat application that works completely in your browser - no server required!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
